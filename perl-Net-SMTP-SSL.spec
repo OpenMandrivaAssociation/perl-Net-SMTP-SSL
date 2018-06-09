@@ -1,10 +1,10 @@
 %define modname	Net-SMTP-SSL
-%define modver	1.01
+%define modver	1.04
 
 Summary:	SSL support for Net::SMTP
 Name:		perl-%{modname}
 Version:	%perl_convert_version %{modver}
-Release:	17
+Release:	1
 License:	GPLv2+ or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{modname}
